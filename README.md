@@ -1,4 +1,4 @@
-# Hola 👋, soy Yahir  
+# Hola, soy Yahir  
 ### Ingeniero en desarrollo de software con enfoque en aplicaciones móviles, plataformas web, automatización y tecnologías interactiva
 
 ---
